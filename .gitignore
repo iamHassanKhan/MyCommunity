@@ -34,3 +34,8 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#firebase and cloudinary
+config/firebase.js
+
+android/app/google-services.jason
